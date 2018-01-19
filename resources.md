@@ -1,14 +1,14 @@
-#GitHub Flow Guide: #
+#GitHub Flow Guide:
 http://guides.github.com/overviews/flow/
 
-#GitHub Explore: #
+#GitHub Explore: 
 http://github.com/explore
 
-#Guides: #
+#Guides: 
 http://guides.github.com/
 
-#YouTube Channel: #
+#YouTube Channel: 
 http://youtube.com/githubguides
 
-#On Demand Training: #
+#On Demand Training: 
 https://services.github.com/on-demand/
